@@ -1,6 +1,6 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Al Schenk
+author: Alex J. Schenk
 github: https://github.com/ajs1592
 about: I'm a Computer Science teacher and technology enthusiast in St. Louis, MO.
 disqus_shortname: stackproblems
@@ -15,19 +15,17 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/alexjschenk?lang=en"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/alexander-schenk-75397012a/"
+   
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/ajs1592"
 
 share:
-  twitter_username: github.io
+  twitter_username: alexjschenk
   fb_appid: 1749788565247320
 
 urls:
