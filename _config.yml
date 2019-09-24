@@ -32,9 +32,9 @@ share:
 
 urls:
     - text: About Me
-      url: /about/
+      url: portfolio/about/
     - text: My Projects
-      url: /projects/
+      url: portfolio/projects/
     - text: XML Feed
       url: /feed.xml
 
