@@ -5,7 +5,7 @@ github: https://github.com/ajs1592
 about: I'm a Computer Science teacher and technology enthusiast in St. Louis, MO.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: portfolio/static/img/Capture.png
+avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
